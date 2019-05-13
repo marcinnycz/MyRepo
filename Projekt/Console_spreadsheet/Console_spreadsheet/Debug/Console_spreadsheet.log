@@ -1,0 +1,9 @@
+﻿  cell.cpp
+  function_cell.cpp
+  main.cpp
+  num_cell.cpp
+  table.cpp
+  text_cell.cpp
+  text_field.cpp
+  Generating Code...
+msvcprtd.lib(MSVCP140D.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
